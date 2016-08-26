@@ -1,3 +1,4 @@
+# http://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/
 class MillerRabin
   # This function is called for all k trials. It returns
   # false if n is composite and returns false if n is
